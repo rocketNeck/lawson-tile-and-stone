@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Dimension V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Dimension by HTML5 UP"
+    title: "Lawson Tile and Stine",
+    author: "Jesse Lawson",
+    description: "We are the premiere hard surface floor specialists in Colorado Springs."
   },
   plugins: [
     'gatsby-plugin-react-helmet',
